@@ -10,4 +10,16 @@ For more detailed viewing check my [kicanvas](https://kicanvas.org/?github=https
 
 ---
 
+## Hardware:
+
+- STM32F446RET6
+- OH49E-S
+- SN74LV4051A
+- TC2030
+- TYPE-C-31-M-12
+- USBLC6-2SC6
+- X322516MLB4SI
+
+---
+
 This project is still a WIP
