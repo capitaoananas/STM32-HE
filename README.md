@@ -4,4 +4,4 @@ A custom [hall effect](https://en.wikipedia.org/wiki/Hall_effect) keyboard with 
 
 ---
 
-This project is still in WIP
+This project is still a WIP
