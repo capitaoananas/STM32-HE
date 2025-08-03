@@ -6,6 +6,8 @@ Schematic             |  PCB
 :-------------------------:|:-------------------------:
 ![schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/40050d58b0fc111d46c6bcbd63341ea509ab73da_screenshot_20250803_151410.png)  |  ![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/cbc9da58c2c16c610023e48b1bce4de454fad6d5_screenshot_20250803_151425.png)
 
+For more detailed viewing check my [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fcapitaoananas%2FSTM32-HE%2Fblob%2Fmain%2FKicad%2Fstm32-he.kicad_pro) file
+
 ---
 
 This project is still a WIP
