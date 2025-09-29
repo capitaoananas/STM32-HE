@@ -6,7 +6,7 @@ Schematic             |  PCB
 :-------------------------:|:-------------------------:
 ![schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d394b72bdfe1912e18649028984677288e853e03_screenshot_20250929_180321.png)  |  ![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bda82fa6c99e69a53a1ae75509cc97aef6d46001_screenshot_20250929_180300.png)
 
-For more detailed viewing check my [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fcapitaoananas%2FSTM32-HE%2Fblob%2Fmain%2Fkicad%2Fstm32-he.kicad_pro) file
+If you really want to crunch in on those errors check the [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fcapitaoananas%2FSTM32-HE%2Fblob%2Fmain%2Fkicad%2Fstm32-he.kicad_pro) file
 
 ---
 
